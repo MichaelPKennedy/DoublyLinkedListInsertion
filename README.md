@@ -1,1 +1,2 @@
 # DoublyLinkedListInsertion
+DoublyLinkedList.java is a generic doubly linked list coded from scratch with insert front, insert rear, insert after a specific node, remove front, remove rear, swap nodes, and print list methods. It also includes an insertion sort method which is used to sort the list in alphabetical order based on the data stored in the nodes when the data are Strings. DoublyInsertionSort.java demonstrates the doubly linked list by having the user enter a list of names. The names are then inserted in the correct order with the insertionSort method. 
